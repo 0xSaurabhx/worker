@@ -1,4 +1,4 @@
-# File-sharing-Bot
+#
 
 <p align="center">
   <a href="https://www.python.org">
@@ -57,7 +57,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone
 cd
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
